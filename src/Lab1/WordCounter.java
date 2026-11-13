@@ -8,7 +8,6 @@ import java.util.Scanner;
 public class WordCounter {
 
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
 
         // 1) Read the text

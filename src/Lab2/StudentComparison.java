@@ -2,7 +2,7 @@
 /*---------------------------------------------------------
 //LAB 2
 // Task 5: Object Comparison and Equality
-// Author : Aditya Rakesh Kakadia (2868381), Adham Selo (2811093)
+// Author : Aditya Rakesh Kakadia (), Adham Selo ()
 */
 
 package Lab2;
